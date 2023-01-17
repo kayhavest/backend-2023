@@ -1,2 +1,4 @@
 Resolusi 2023
-- konsisten belajar js, php dll
+- konsisten belajar
+- belajar js, node.js
+- php
